@@ -1,26 +1,53 @@
-# 诺百爱（杭州）科技有限公司
+# NoBarriers Technology Co., Ltd.
 
-诺百爱（杭州）科技有限公司，作为一家专注于神经电信号人机交互领域的高新技术企业，致力于将生物电信号与人工智能算法结合技术应用于人机交互领域。公司通过自主研发的神经电采集模块、生物电采集芯片、信号处理算法等底层技术，构建了国内领先的完整生物电信息综合采集和识别系统。
+NoBarriers Technology Co., Ltd. is a high-tech enterprise focused on the field of neuroelectric signal human-computer interaction. The company is dedicated to applying the combination of bioelectric signal and artificial intelligence algorithms to the field of human-computer interaction. With independently developed neuroelectric signal acquisition modules, bioelectric signal acquisition chips, and signal processing algorithms, the company has constructed a leading comprehensive bioelectric signal acquisition and recognition system in China.
 
-## 技术核心竞争力
+## Core Competitive Technologies
 
-公司在神经电交互技术领域拥有显著的核心竞争力，包括：
+The company possesses significant core competitive strengths in the field of neuroelectric interaction technology, including:
 
-- **自研神经电采集模组**：研制了采样率从200-2000HZ的神经电采集设备，可采集高精度肌电信号，针对不同的使用场景，可以调整采集通道数量。
-- **数据处理和深度学习识别算法**：算法可以快速筛选出满足要求的数据，去除异常信息，最大程度上保留神经电有效数据。基于积累的大规模肌电数据，完成了肌电动作识别范式，针对各类场景、各种动作，各种强度的肌电信号，均可准确识别。
-- **神经电分解算法**：自研算法可将肌电分解出多通道MU信息，较传统盲源分离算法提高15%。
-- **可延展采集结构设计**：采用先进的可延展导电材料，解决了电极和传输导联伸缩性问题。
+- **Self-developed Neuroelectric Signal Acquisition Modules**: Developed neuroelectric signal acquisition equipment with a sampling rate ranging from 200-2000Hz, capable of collecting high-precision electromyography (EMG) signals. The number of acquisition channels can be adjusted to suit various application scenarios.
+- **Data Processing and Deep Learning Recognition Algorithms**: The algorithms can quickly filter out data that meets the requirements, remove abnormal information, and retain as much effective neuroelectric data as possible. Based on the accumulated large-scale EMG data, a myoelectric action recognition paradigm has been completed, which can accurately recognize EMG signals of various scenes, actions, and intensities.
+- **Neuroelectric Decomposition Algorithm**: The proprietary algorithm can decompose EMG into multiple-channel Motor Unit (MU) information, improving the performance by 15% over traditional blind source separation algorithms.
+- **Extendable Acquisition Structure Design**: Advanced extendable conductive materials are used to solve the elasticity issues of electrodes and transmission leads.
 
-## 产品与服务
+## Products and Services
 
-诺百爱科技的产品线涵盖了从硬件设备到软件算法的全链路解决方案，包括但不限于：
+NoBarriers Technology's product line covers a full range of solutions from hardware devices to software algorithms, including but not limited to:
 
-- **生物电信息综合采集系统**：SHOWING系统，包括软硬件整体解决方案，完成1000+万条神经电数据采集，构建了大规模统一方案肌电神经电数据集。
-- **虚拟手**：通过传感器数据计算出手部21维度关键点信息，实现手部状态同步到虚拟世界中。
-- **输入法**：基于肌电神经电的输入法，提供不受外部场景限制的高效交互方式。
-- **微动交互**：通过手部的微小动作控制视觉界面，为可穿戴移动场景提供核心交互技术。
-- **肌电动作识别系统**：基于深度学习算法，完成肌电动作识别，提升识别准确率。
+- **Comprehensive Bioelectric Signal Acquisition System**: The SHOWING system, including both software and hardware solutions, has completed the acquisition of over 10 million neuroelectric data entries, building a large-scale unified scheme EMG dataset.
+- **Virtual Hand**: Calculates 21 degrees of freedom of hand key points through sensor data to synchronize the hand state into the virtual world.
+- **Input Method**: An input method based on myoelectric and neuroelectric signals, providing an efficient interaction method not limited by external scenarios.
+- **Micro-movement Interaction**: Controls the visual interface through small hand movements, providing core interaction technology for wearable mobile scenarios.
+- **Electromyography Action Recognition System**: Utilizes deep learning algorithms to complete electromyography action recognition and improve recognition accuracy.
 
-## 合作与成就
+## Product Gallery
 
-诺百爱科技与多家知名机构和企业建立了合作关系，包括北航、浙大、军委、小天才、字节小米等，并承接了军委预研项目，成为唯一申请通过的民企。公司已经通过和审核中的发明专利10余项，申请和准备中的专利10余项。2021年被评为国家级高新技术企业。
+#### Band V2.1
+
+![bihuan_1](./BandV2.1/bihuan_1.png)  
+![bihuan_2](./BandV2.1/bihuan_4.png)  
+![bihuan_3](./BandV2.1/bihuan_5.png)  
+
+#### Band V3.0
+
+![id_design](./BandV3/id_design.png)
+![wearing_1](./BandV3/wearing_1.jpg)
+![wearing_2](./BandV3/wearing_2.jpg)  
+![wearing_3](./BandV3/wearing_3.jpg)  
+![wearing_4](./BandV3/wearing_4.jpg)  
+
+#### HCI
+
+![showing](./NeuralHCI/showing.gif)
+![showing_1](./NeuralHCI/showing.png)
+![watch](./NeuralHCI/watch.png)
+![watch2](./NeuralHCI/watch2.png)
+
+### Product Showcase
+
+
+
+## Cooperation and Achievements
+
+NoBarriers Technology has established cooperative relationships with many well-known institutions and enterprises, including Beihang University, Zhejiang University, the Central Military Commission, Xiao Tian Cai, ByteDance, and Xiaomi, and has undertaken pre-research projects from the Central Military Commission, being the only private enterprise approved. The company has more than 10 patents that have been granted and are under review, with more than 10 patents pending. In 2021, it was rated as a national high-tech enterprise.
