@@ -25,24 +25,23 @@ NoBarriers Technology's product line covers a full range of solutions from hardw
 
 #### Band V2.1
 
-![bihuan_1](./BandV2.1/bihuan_1.png)  
-![bihuan_2](./BandV2.1/bihuan_4.png)  
-![bihuan_3](./BandV2.1/bihuan_5.png)  
+<div align=center><img src="./BandV2.1/bihuan_1.png" alt="bihuan_1" width="250"/></div>
+<div align=center><img src="./BandV2.1/bihuan_4.png" alt="bihuan_4" width="250"/></div>
+<div align=center><img src="./BandV2.1/bihuan_5.png" alt="bihuan_5" width="250"/></div>
 
 #### Band V3.0
 
-![id_design](./BandV3/id_design.png)
-![wearing_1](./BandV3/wearing_1.jpg)
-![wearing_2](./BandV3/wearing_2.jpg)  
-![wearing_3](./BandV3/wearing_3.jpg)  
-![wearing_4](./BandV3/wearing_4.jpg)  
+<div align=center><img src="./BandV3/id_design.png" alt="id_design" width="250"/></div>
+<div align=center><img src="./BandV3/wearing_1.jpg" alt="wearing_1" width="200"/>
+<img src="./BandV3/wearing_2.jpg" alt="wearing_2" width="200"/></div>
+<div align=center><img src="./BandV3/wearing_3.jpg" alt="wearing_3" width="200"/>
+<img src="./BandV3/wearing_4.jpg" alt="wearing_4" width="200"/></div>
 
 #### HCI
 
-![showing](./NeuralHCI/showing.gif)
-![showing_1](./NeuralHCI/showing.png)
-![watch](./NeuralHCI/watch.png)
-![watch2](./NeuralHCI/watch2.png)
+<div align=center><img src="./NeuralHCI/showing.gif" alt="showing" width="300"/></div>
+<div align=center><img src="./NeuralHCI/showing.png" alt="showing" width="300"/></div>
+<div align=center><img src="./NeuralHCI/watch.png" alt="watch" width="200"/><img src="./NeuralHCI/watch2.png" alt="watch2" width="200"/></div>
 
 ### Product Showcase
 
