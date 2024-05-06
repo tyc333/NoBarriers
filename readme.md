@@ -18,7 +18,7 @@ The company possesses significant core competitive strengths in the field of neu
 - **Company Establishment**: Founded in 2017, Nuo Bai Ai has been at the forefront of neuroelectric interaction technology.
 - **First Product Launch**: The first generation of the company's product, BandV2.0, was launched in January 2018, marking a significant milestone in the company's journey to innovate in the field of human-computer interaction.
 - **Patent Achievement**: In 2019, the company was granted an invention patent for "A Connecting Structure of an Eight-Channel Armband Device," showcasing its commitment to innovation and technological advancement.
-- **Global Recognition**: In 2017, Nuo Bai Ai secured the first place in the United Nations Innovation Challenge, an accolade that underscores the company's global impact and recognition in the field of innovation.
+- **Global Awards**: In 2017, Nuo Bai Ai secured the first place in the United Nations Innovation Challenge, an accolade that underscores the company's global impact and recognition in the field of innovation.
 
 ## Products and Services
 
